@@ -128,4 +128,4 @@ This project is part of my data analytics portfolio and showcases my foundationa
 
 Feel free to connect or provide feedback:
 
-- **LinkedIn**: *[Your LinkedIn Profile](#)* (Update when ready)
+- **LinkedIn**: www.linkedin.com/in/mary-valentina-932818250
